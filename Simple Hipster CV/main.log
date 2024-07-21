@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  20 JUL 2024 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  20 JUL 2024 22:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -862,28 +862,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 117.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 118.
-<disney.png, id=35, 225.84375pt x 225.84375pt>
-File: disney.png Graphic file (type png)
-<use disney.png>
-Package pdftex.def Info: disney.png  used on input line 118.
-(pdftex.def)             Requested size: 28.45094pt x 28.45274pt.
-<Logo_DUOC-UC_edited.jpg, id=36, 113.42375pt x 28.105pt>
-File: Logo_DUOC-UC_edited.jpg Graphic file (type jpg)
-<use Logo_DUOC-UC_edited.jpg>
-Package pdftex.def Info: Logo_DUOC-UC_edited.jpg  used on input line 119.
-(pdftex.def)             Requested size: 114.83224pt x 28.45274pt.
+<Universidad-Catolica-de-Chile-Logo-Vector.svg-.png, id=35, 1425.325pt x 1882.03125pt>
+File: Universidad-Catolica-de-Chile-Logo-Vector.svg-.png Graphic file (type png)
+<use Universidad-Catolica-de-Chile-Logo-Vector.svg-.png>
+Package pdftex.def Info: Universidad-Catolica-de-Chile-Logo-Vector.svg-.png  used on input line 118.
+(pdftex.def)             Requested size: 21.53119pt x 28.45274pt.
+<Logo_DUOC-UC_edited.png, id=36, 426.59375pt x 106.3975pt>
+File: Logo_DUOC-UC_edited.png Graphic file (type png)
+<use Logo_DUOC-UC_edited.png>
+Package pdftex.def Info: Logo_DUOC-UC_edited.png  used on input line 119.
+(pdftex.def)             Requested size: 114.07527pt x 28.45274pt.
 
-Overfull \hbox (23.71938pt too wide) in paragraph at lines 117--122
+Overfull \hbox (22.9624pt too wide) in paragraph at lines 117--122
 [][]
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 126.
+<disney.png, id=37, 225.84375pt x 225.84375pt>
 File: disney.png Graphic file (type png)
 <use disney.png>
 Package pdftex.def Info: disney.png  used on input line 126.
 (pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
-<medal.jpeg, id=37, 225.84375pt x 225.84375pt>
+<medal.jpeg, id=38, 225.84375pt x 225.84375pt>
 File: medal.jpeg Graphic file (type jpg)
 <use medal.jpeg>
 Package pdftex.def Info: medal.jpeg  used on input line 127.
@@ -913,7 +914,7 @@ Overfull \hbox (21.71292pt too wide) in paragraph at lines 193--199
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <./jack.jpg> <./disney.png> <./Logo_DUOC-UC_edited.jpg> <./medal.jpeg>]
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <./jack.jpg> <./Universidad-Catolica-de-Chile-Logo-Vector.svg-.png> <./Logo_DUOC-UC_edited.png> <./disney.png> <./medal.jpeg>]
 
 [2] (./main.aux)
  ***********
@@ -928,18 +929,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28380 strings out of 473584
- 570029 string characters out of 5732363
+ 28387 strings out of 473584
+ 570427 string characters out of 5732363
  1967908 words of memory out of 5000000
- 50733 multiletter control sequences out of 15000+600000
+ 50740 multiletter control sequences out of 15000+600000
  774528 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,13n,135p,498b,1209s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Italic.pfb><c:/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (2 pages, 391465 bytes).
+Output written on main.pdf (2 pages, 473091 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
