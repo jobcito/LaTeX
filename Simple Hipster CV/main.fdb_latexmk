@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1721529291.98465 "c:/Users/jorge/OneDrive/Documentos/LaTeX/Simple Hipster CV/main.tex" "main.pdf" "main" 1721529294.88547 0
+["pdflatex"] 1722213321.08291 "c:/Users/jorge/OneDrive/Documentos/LaTeX/Simple Hipster CV/main.tex" "main.pdf" "main" 1722213328.54167 0
   "Logo_DUOC-UC_edited.png" 1721526317 30947 1bd540207fa6b9a7c934cfa3041013b0 ""
   "Universidad-Catolica-de-Chile-Logo-Vector.svg-.png" 1721528946 47446 a589741702567b4e5be99215d9e21dec ""
-  "c:/Users/jorge/OneDrive/Documentos/LaTeX/Simple Hipster CV/main.tex" 1721529290 6166 425a4e99e9b944fe8aff248cb2ad5e78 ""
+  "c:/Users/jorge/OneDrive/Documentos/LaTeX/Simple Hipster CV/main.tex" 1722213317 6173 32e42efcde13a9aba7c10491c7b8fe43 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1721063292 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1721064749 1687 f004baecce60175c6453d0e3f808cf20 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1721064749 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -228,9 +228,9 @@
   "c:/texlive/2024/texmf.cnf" 1721071476 713 614551405fc44b98efbf516466e3c909 ""
   "disney.png" 1721071256 5035 ddd3414a36f7121066a14d062e9b31ce ""
   "jack.jpg" 1721071256 203784 668e0d5462134d89177cfce9ab8c5488 ""
-  "main.aux" 1721529294 205 7f3f9e25ca32b3ce03aa600515c22915 "pdflatex"
-  "main.out" 1721529293 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1721529290 6166 425a4e99e9b944fe8aff248cb2ad5e78 ""
+  "main.aux" 1722213328 205 7f3f9e25ca32b3ce03aa600515c22915 "pdflatex"
+  "main.out" 1722213326 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1722213317 6173 32e42efcde13a9aba7c10491c7b8fe43 ""
   "medal.jpeg" 1721071256 9864 8e5f5b4bd5c027f1d23df09a9ea1de70 ""
   "simplehipstercv.cls" 1721071256 10757 c85c243d06d400a6ac177620d621773b ""
   "simplehipstercv.sty" 1721059454 7602 33d8e1cbb66e831aa1a5c8e3acebd6cd ""
