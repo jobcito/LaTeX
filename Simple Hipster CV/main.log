@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  28 JUL 2024 20:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  28 SEP 2024 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **"c:/Users/jorge/OneDrive/Documentos/LaTeX/Simple Hipster CV/main.tex"
 (c:/Users/jorge/OneDrive/Documentos/LaTeX/Simple Hipster CV/main.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+L3 programming layer <2024-08-30>
 (./simplehipstercv.cls
 Document Class: simplehipstercv 2019/06/22 A New Simple CV Template
 (c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -393,13 +393,13 @@ File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (c:/texlive/2024/texmf-dist/tex/latex/smartdiagram/smartdiagram.sty
 Package: smartdiagram 2016/12/23 v0.3b Automatic creation of smart diagrams from lists of items.
  (c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-05-27 L3 programming layer (loader) 
+Package: expl3 2024-08-30 L3 programming layer (loader) 
  (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count311
 \l__pdf_internal_box=\box69
 ))
-Package: xparse 2024-05-08 L3 Experimental document command parser
+Package: xparse 2024-08-16 L3 Experimental document command parser
 ) (c:/texlive/2024/texmf-dist/tex/generic/xstring/xstring.sty (c:/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex
 \xs_counta=\count312
 \xs_countb=\count313
@@ -809,11 +809,11 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 41.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 55.
-<jack.jpg, id=34, 803.0pt x 602.25pt>
-File: jack.jpg Graphic file (type jpg)
-<use jack.jpg>
-Package pdftex.def Info: jack.jpg  used on input line 59.
-(pdftex.def)             Requested size: 132.77109pt x 99.58464pt.
+<Foto_job.jpg, id=34, 602.25pt x 565.36218pt>
+File: Foto_job.jpg Graphic file (type jpg)
+<use Foto_job.jpg>
+Package pdftex.def Info: Foto_job.jpg  used on input line 59.
+(pdftex.def)             Requested size: 106.07535pt x 99.58464pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 62.
 LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 79.
@@ -855,71 +855,71 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
 (Font)              scaled to size 9.0pt on input line 115.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 117.
+(Font)              <9> on input line 118.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 117.
+(Font)              <6> on input line 118.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 117.
+(Font)              <5> on input line 118.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 118.
-<Universidad-Catolica-de-Chile-Logo-Vector.svg-.png, id=35, 1425.325pt x 1882.03125pt>
-File: Universidad-Catolica-de-Chile-Logo-Vector.svg-.png Graphic file (type png)
-<use Universidad-Catolica-de-Chile-Logo-Vector.svg-.png>
-Package pdftex.def Info: Universidad-Catolica-de-Chile-Logo-Vector.svg-.png  used on input line 118.
-(pdftex.def)             Requested size: 21.53119pt x 28.45274pt.
-<Logo_DUOC-UC_edited.png, id=36, 426.59375pt x 106.3975pt>
-File: Logo_DUOC-UC_edited.png Graphic file (type png)
-<use Logo_DUOC-UC_edited.png>
-Package pdftex.def Info: Logo_DUOC-UC_edited.png  used on input line 119.
-(pdftex.def)             Requested size: 114.07527pt x 28.45274pt.
+(Font)              scaled to size 9.0pt on input line 120.
+<PUC_Logo_3.png, id=35, 993.9534pt x 615.2586pt>
+File: PUC_Logo_3.png Graphic file (type png)
+<use PUC_Logo_3.png>
+Package pdftex.def Info: PUC_Logo_3.png  used on input line 120.
+(pdftex.def)             Requested size: 48.25975pt x 29.87547pt.
+<Logo_DUOC-UC_fondo_transparente_3.png, id=37, 200.75pt x 49.18375pt>
+File: Logo_DUOC-UC_fondo_transparente_3.png Graphic file (type png)
+<use Logo_DUOC-UC_fondo_transparente_3.png>
+Package pdftex.def Info: Logo_DUOC-UC_fondo_transparente_3.png  used on input line 121.
+(pdftex.def)             Requested size: 121.93962pt x 29.87547pt.
 
-Overfull \hbox (22.9624pt too wide) in paragraph at lines 117--122
-[][]
+Overfull \hbox (30.82675pt too wide) in paragraph at lines 118--124
+[][] 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 126.
-<disney.png, id=37, 225.84375pt x 225.84375pt>
+(Font)              scaled to size 7.0pt on input line 132.
+<disney.png, id=38, 225.84375pt x 225.84375pt>
 File: disney.png Graphic file (type png)
 <use disney.png>
-Package pdftex.def Info: disney.png  used on input line 126.
+Package pdftex.def Info: disney.png  used on input line 132.
 (pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
-<medal.jpeg, id=38, 225.84375pt x 225.84375pt>
+<medal.jpeg, id=39, 225.84375pt x 225.84375pt>
 File: medal.jpeg Graphic file (type jpg)
 <use medal.jpeg>
-Package pdftex.def Info: medal.jpeg  used on input line 127.
+Package pdftex.def Info: medal.jpeg  used on input line 133.
 (pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
 File: medal.jpeg Graphic file (type jpg)
 <use medal.jpeg>
-Package pdftex.def Info: medal.jpeg  used on input line 128.
+Package pdftex.def Info: medal.jpeg  used on input line 134.
 (pdftex.def)             Requested size: 14.22546pt x 14.22636pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 6.0pt on input line 135.
+(Font)              scaled to size 6.0pt on input line 141.
 File: disney.png Graphic file (type png)
 <use disney.png>
-Package pdftex.def Info: disney.png  used on input line 144.
-(pdftex.def)             Requested size: 28.45094pt x 28.45274pt.
+Package pdftex.def Info: disney.png  used on input line 150.
+(pdftex.def)             Requested size: 29.87418pt x 29.87547pt.
 File: medal.jpeg Graphic file (type jpg)
 <use medal.jpeg>
-Package pdftex.def Info: medal.jpeg  used on input line 145.
-(pdftex.def)             Requested size: 28.45094pt x 28.45274pt.
+Package pdftex.def Info: medal.jpeg  used on input line 151.
+(pdftex.def)             Requested size: 29.87418pt x 29.87547pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 161.
+(Font)              scaled to size 5.0pt on input line 167.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 171.
+(Font)              scaled to size 8.0pt on input line 177.
 
-Overfull \hbox (21.71292pt too wide) in paragraph at lines 193--199
+Overfull \hbox (21.71292pt too wide) in paragraph at lines 199--205
 [][] 
  []
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <./jack.jpg> <./Universidad-Catolica-de-Chile-Logo-Vector.svg-.png> <./Logo_DUOC-UC_edited.png> <./disney.png> <./medal.jpeg>]
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc} <./Foto_job.jpg> <./PUC_Logo_3.png> <./Logo_DUOC-UC_fondo_transparente_3.png> <./disney.png> <./medal.jpeg>]
 
 [2] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+L3 programming layer <2024-08-30>
  ***********
 
 
@@ -929,18 +929,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28387 strings out of 473584
- 570427 string characters out of 5732363
- 1967908 words of memory out of 5000000
- 50740 multiletter control sequences out of 15000+600000
+ 28387 strings out of 473579
+ 570301 string characters out of 5732263
+ 1007497 words of memory out of 5000000
+ 50745 multiletter control sequences out of 15000+600000
  774528 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,13n,135p,498b,1209s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Italic.pfb><c:/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (2 pages, 473493 bytes).
+Output written on main.pdf (2 pages, 2457790 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
